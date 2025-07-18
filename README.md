@@ -28,3 +28,12 @@ And then you should be able to access the server you started to run models:
 ```
 ollama run granite3.3:8b
 ```
+
+## UCL Computer Science Infrastructure
+
+UCL Computer Science has a number of resources available for running models.
+Usually, one would want to run ollama on a machine with a GPU.
+The department has a number of machines with GPUs available for this purpose.
+You can find an overview of the available machines on the [GPU Access page](https://tsg.cs.ucl.ac.uk/gpu-access/).
+
+To guarantee exclusive use of a machine and its GPU, you would best use the Remote Workstation Service.
